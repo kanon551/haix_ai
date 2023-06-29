@@ -4,6 +4,10 @@
 
 
 
+https://github.com/kanon551/haix_ai/assets/88090133/be31d716-4469-41f6-9a62-55b092874b22
+
+
+
 This project was Haix.AI Assignment for the role of  Front End Engineer to demonstrate the work using different tools like
 React, Typescript, Tailwind css,Plotly.JS,axios, CSV, XLSX, charts , cards etc
 
